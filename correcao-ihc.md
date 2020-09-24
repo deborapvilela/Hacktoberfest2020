@@ -45,3 +45,22 @@ Criar alternativas de design: uma das fases mais importantes. Nessa etapa, deve-
 Prototipar: desenvolver um protótipo interativo a partir dos dados levantados nas etapas anteriores. Esse protótipo deve ser apresentado para os potenciais usuários para uma interação em um ambiente controlado.[2](Páginas 15 e 16)
 Avaliar: a avaliação é o foco do processo de design cujo o centro é o usuário. Pode ser feito por meio de entrevistas, questionários, avaliação da interação do usuário com o produto de forma a garantir que o produto é adequado.[2](Página 15)
 
+8) Quem são os usuários?
+De acordo com Holzblatt e Jones (1993): aqueles que gerenciam usuários diretos, aqueles que recebem produtos do sistema, que testam o sistema, que tomam decisão de compra e aqueles que utilizam produtos de concorrentes [3](Slide nº 91). Os usuários podem ser divididos em três categorias (Eason, 1987): 
+Primário: usuários frequentes do sistema;[3](Slides nº 92-93)
+Secundário: usuários menos frequentes que utilizam o sistema por meio de um intermediário;[3](Slides nº 92-93)
+Terciário: usuários afetados pela introdução do sistema ou que influenciam em sua compra.[3](Slides nº 92-93)
+
+9) Descreva as metas de usabilidade.
+Respostas encontradas em [2](Páginas 19-21) 
+Eficácia: o quanto o produto é bom em fazer o que se espera dele;
+Eficiência:maneira como o produto auxilia o usuário na realização de tarefas;
+Segurança: proteger o usuário de perigos e situações indesejáveis durante a execução de tarefas;
+Utilidade: a forma como o produto oferece uma funcionalidade que o usuário utiliza para executar uma tarefa da forma que precisa e deseja;
+Learnability:facilidade de aprender a usar um sistema;
+Memorability:facilidade de lembrar como se utiliza um sistema depois de tê-lo aprendido.
+10) Descreva as metas decorrentes da experiência do usuário.
+As metas de experiência de usuário estão ligadas à subjetividade e são expressadas através das emoções e sensações do indivíduo ao usar um sistema ou realizar uma tarefa. Tais experiências são abordadas tanto por experiências desejáveis quanto indesejáveis. Essas metas têm como foco o usuário e não o desempenho do sistema.Exemplos de metas de experiências do usuário[3](Página 22):
+Desejáveis:satisfatório, motivador, prazeroso, divertido, apoia a criatividade, etc [3](Página 23);
+Indesejáveis:tedioso, irritante, frustrante,artificial, infantil, sensação de culpa, etc [3](Página 23).
+
