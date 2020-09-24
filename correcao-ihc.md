@@ -64,3 +64,35 @@ As metas de experiência de usuário estão ligadas à subjetividade e são expr
 Desejáveis:satisfatório, motivador, prazeroso, divertido, apoia a criatividade, etc [3](Página 23);
 Indesejáveis:tedioso, irritante, frustrante,artificial, infantil, sensação de culpa, etc [3](Página 23).
 
+11) Descreva os princípios de usabilidade.
+Visibilidade: funções visíveis para o usuário saber como proceder;
+Feedback: retorno de informações sobre a ação que foi realizada; permite que o usuário prossiga com as tarefas;
+Restrições: forma de limitar interações do usuário com o sistema em determinado momento;
+Mapeamento: relação entre controles e efeitos no mundo;
+Consistência: utilizar operações semelhantes com elementos semelhantes para tarefas similares;
+Affordance: utilização de “dicas” para o usuário de como utilizar determinado objeto ou funcionalidade.
+Respostas retiradas de [1](páginas 21-24).
+
+12) Qual a diferença entre princípios e heurísticas de usabilidade?
+Os princípios de usabilidade são chamados de heurística quando aplicados na prática; os princípios de usabilidade são utilizados principalmente para base de avaliação de protótipos e sistemas existentes. Quando estes princípios de usabilidade são aplicados em avaliações, são chamados de heurística [1](página 26). 
+As heurísticas foram propostas por Nielsen e seus colegas a partir dos princípios de usabilidade.
+
+13) Quais são os dez princípios de usabilidade desenvolvidos por Nielsen e seu colegas?
+Visibilidade do status do sistema:o sistema mantém o usuário informado sobre o que está acontecendo por meio de feedbacks em tempo razoável;
+Compatibilidade do sistema com o mundo real: utiliza linguagem familiar com o usuário em vez de linguagem voltada para o sistema;
+Controle do usuário e liberdade: utiliza “saídas de emergência” claramente identificadas para o usuário;
+Consistência e padrões: evita fazer o usuário pensar se palavras, situações ou ações diferentes significam a mesma coisa;
+Ajuda os usuários a reconhecer, diagnosticar e recuperar de erros: utiliza uma linguagem simple para explicar o problema e oferece uma solução para o problema;
+Prevenção de erros: onde possível, impede ocorrência de erros;
+Reconhecimento em vez de memorização: tornar objetos, opções e ações visíveis;
+Flexibilidade e eficiência de uso: oferecem aceleradores que permitem usuários experientes realizarem tarefas com rapidez;
+Estética e design minimalista:evita uso de informações irrelevantes ou raramente necessárias;
+Ajuda e documentação: fornece informações facilmente encontradas e ajuda com passos que podem ser seguidos com facilidade.
+Resposta retirada de [1](páginas 26 e 27 do PDF)
+
+14) Apresente um site que não atenda uma das heurísticas de usabilidade propostas por Nielsen (1994). Utilize o “Formulário para Avaliação Heurística” apresentado o artigo “Avaliação Heurística de Sítios na Web” de Maciel et al. para apresentar o resultado da sua avaliação. 
+Resposta subjetiva. Avaliar a resposta de cada aluno.
+
+Observação:
+1 – Sempre que possível, coloque a referência bibliográfica (livro e página) para cada resposta dos exercícios.
+
